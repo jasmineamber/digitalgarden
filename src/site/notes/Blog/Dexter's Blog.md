@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/blog/dexter-s-blog/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Blog/Dexter's Blog/","tags":["gardenEntry"]}
 ---
 
 # My Blog
 
-[[Blog/My First Blog\|My First Blog]]
+[[Blog/软件分享\|软件分享]]
