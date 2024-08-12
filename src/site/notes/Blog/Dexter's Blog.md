@@ -4,4 +4,4 @@
 
 # My Blog
 
-[[Blog/第一篇博客\|第一篇博客]]
+[[Blog/My First Blog\|My First Blog]]
